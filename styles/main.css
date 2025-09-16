@@ -103,6 +103,10 @@ h6,
   animation: border-grow 0.4s forwards;
 }
 
+.navbar-nav {
+  direction: rtl;
+}
+
 /* Update the offcanvas menu for full page coverage on small screens */
 @media (max-width: 991.98px) {
   #offcanvasNav.offcanvas {
